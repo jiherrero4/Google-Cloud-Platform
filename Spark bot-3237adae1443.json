@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spark-bot-146313",
+  "private_key_id": "3237adae1443a6a9d193ed3458db53e1fdcce412",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0eZAsK/EfrCao\nuVqCwJ3IiKD209sYnQukZHgWFKuVNRhPmMJ6uS/PP7jywERxP/mmKSb3xP89S5JD\n7J9KHuNMGcPoBTexM43l14bvfakalc2hItf1GA3sSm8NGJV2C5pkDc2Jpf6T3v0n\nRMf4xofitEDSptSPY+KPK1rZrfmd+88jhmV78MmOPL+EBqSmgI0gGsT+nynU5wjA\nlfN7moF4PSk6dCpbxTXfmYobxoo86KiiYoCkxEozSxsMMqTkOyTXI0xFveihkJFE\nFH5klk2BQwlDrMwVn48T5Gkrtlj61FZG8amk1TRPK7Et/ktsxWLcWaYT1SeRwFny\nmLBO4FkdAgMBAAECggEAU7qWRbf5PS18HgkoUcMVMMUakIkHe+rYTOODxxK97BJe\n/gasK42g/bDdmFnVJwl8RDeRaaAOnpxh9ntgB14/K75EYm+RP/fgHEMayh9thfT8\nGob01DPducNqtBO0u7h0X3j746GMc4QfxMknUWaiAm6IKHLX6NJ5eNyvYJBTX5R8\nmY3WrP2VwZJ1GwzXupFhKgcd9kgPaw8qZY2IWzn4v5SCKCIj3etKVsv5TIEf12b9\nuuywuCaRml1V/jkLiFMvZfOtFv+jCr30yX1gdxMSGBdb/LhDUCgM0/xzbHB0RlDi\nt1WvbZqetVGI6D2UMXlieLRmkhrcp0B3EtyDlSRd4QKBgQDosahEon93CYM7AAFf\nl68neRrsT9HWpyzRll8eSBy9NDC698jucIyClJNFIqlY+GQ0QwxKNLFRLiHAfnzc\nDfD8y2Rwutaf9+1m0HP3JO21tjPo0pBESA2fzRRv1P4orZihF68OEStx3SMGsmoq\nfiPKr9YFyhp/3F7lMjQ7yPY+5QKBgQDGjP3+rOaCaIAKDkfHUKrSBuFVaI57qM0a\n+my8fc8Vgs59SuR0QRv0FOidUze+w59C/eR1H6FTfXQvSeGEsY6aLF8B+ypJhtSa\nBn1tVmmUJ4/pzlLP0kG6ovRz9I48YscezreGdTVymAV27lWo0zy4BlUBDQ2ogebf\nEoV03wdV2QKBgEgZ/Gy/+UUWQn5+ou5O3uwZP3lnxjp/9IhA0tpcN+N8j3jvnGgd\nobw4c2Whtt2loc7704wOxb7Ez5qI1wGMpFaAY2/2xNguh3YrMzOqUqnSekUzMZam\nyOnyLtn0IojSOY/4+bofIdoXTmod0H24NjjwwR1sIUfrLdBQ/RRlUb/tAoGAf8Rp\nCkK/DvoqMs5fuE4bro3I4UooLkFAw3SVFnKrGP+U2yGfg4QGdfoiemL7w2FlEhoJ\nsqkJCo33fxq+6cHMrz+QX9j9rFT8aKV2fy6VQEZ5II6p0ZxOuch1IE0mXot98UA6\n72ZrX3OeSJs0OjC8qPtCJiv9NwtowvHLOZrvwHkCgYBOviNRtfGm63GGYBuZj9yL\nvEoimgWTbWzsPrkIhC2Epq4hIeEWFS5Dz4WmQ6WsmgZrHDsUA9wKS5wWts0gubkg\n7jeNv6VKK23Jt/y0trjSEfV6JgF2yzA3aKHRa1JRIOGIPdN8rNYd2sHQGmdoH2CC\nW7vZsnr2tfU/tRGr/WKaEg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "virtual-assitance@spark-bot-146313.iam.gserviceaccount.com",
+  "client_id": "104955903335632518232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/virtual-assitance%40spark-bot-146313.iam.gserviceaccount.com"
+}
